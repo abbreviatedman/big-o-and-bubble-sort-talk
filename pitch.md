@@ -4,17 +4,6 @@ Measuring how your code scales. For science!
 
 ---
 
-### Outline
-
-- What does it mean to "scale"?
-- Why do we care?
-- Terminology
-- At Worst
-- Arrays vs. Linked Lists
-- Sorting Examples
-
----
-
 ### What Does It Mean To "Scale"?
 
 In CS, we're talking about how our efficiency changes as we "scale up".
@@ -107,4 +96,18 @@ But if you're adding and removing from both sides (say, a queue!), you want a Li
 
 ---
 
-### Accessing
+### Understanding Is Key
+
+If you understand how arrays and linked lists scale differently for different uses...
+
+...you'll use the right one.
+
+And you'll end up with a much faster app!
+
+---
+
+### Especially At Scale
+
+A successful app has to plan to scale to _millions_ of users.
+
+![the FAANG company logos](./faang.gif)
